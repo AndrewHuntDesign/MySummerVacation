@@ -8,7 +8,7 @@ PacletObject[
     "License" -> "MIT",
     "PublisherID" -> "AndyHunt",
     "Version" -> "1.0.0",
-    "WolframVersion" -> "15.1+",
+    "WolframVersion" -> "15.0+",
     "PrimaryContext" -> "AndyHunt`MySummerVacation`",
     "DocumentationURL" -> "https://resources.wolframcloud.com/PacletRepository/resources",
     "Extensions" -> {
